@@ -177,6 +177,10 @@ footer {
     text-align: center;
 }
 
+.footer {
+    padding-top: 50px;
+}
+
 .social {
     font-size: 25px;
 }
