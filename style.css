@@ -113,6 +113,7 @@ hr {
 .third-section {
     margin-left: 150px;
     margin-right: 197px;
+    margin-bottom: 100px;
 }
 
 .third-section h3 {
@@ -151,4 +152,31 @@ hr {
 .third-section>p {
     text-align: right;
     color: #E02C6D;
+}
+
+.last-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.last-img {
+    margin-left: 165px;
+    margin-right: 95px;
+}
+
+.last-info {
+    margin-right: 165px;
+}
+
+footer {
+    background-color: #0A0826;
+    color: white;
+    height: 239px;
+    text-align: center;
+}
+
+.social {
+    font-size: 25px;
 }
